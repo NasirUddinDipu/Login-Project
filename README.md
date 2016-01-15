@@ -2,10 +2,15 @@ PHP Login System
 =================
 
 Author Name: Nasir Uddin.
+
 Location: Bangladesh.
+
 website: http://www.codepinpoint.com
+
 Project Name: Nasir(php)Dipu.
+
 version: 1.0
+
 
 This is a simple PHP Login system It's a test project
 
